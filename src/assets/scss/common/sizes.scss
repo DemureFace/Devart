@@ -1,0 +1,112 @@
+$size-container-width-max: 50rem;
+$size-container-width-min: 25rem;
+$headerHeightMobile: 60px;
+$headerHeight: 76px;
+
+// to use like custom var
+* {
+  --header-height-mobile: 60px;
+  --header-height: 76px;
+}
+
+@mixin _320 {
+  @media (min-width: 320px) {
+    @content;
+  }
+}
+
+@mixin _360 {
+  @media (min-width: 360px) {
+    @content;
+  }
+}
+
+@mixin _375 {
+  @media (min-width: 375px) {
+    @content;
+  }
+}
+
+@mixin _540 {
+  @media (min-width: 540px) {
+    @content;
+  }
+}
+
+@mixin _767_max {
+  @media (max-width: 767px) {
+    @content;
+  }
+}
+
+@mixin _375_landscape {
+  @media (max-height: 375px) {
+    @content;
+  }
+}
+
+@mixin _540_landscape {
+  @media (max-height: 540px) {
+    @content;
+  }
+}
+
+@mixin _768_landscape {
+  @media (max-height: 768px) {
+    @content;
+  }
+}
+
+@mixin _900_landscape {
+  @media (max-height: 900px) {
+    @content;
+  }
+}
+
+@mixin _980_landscape {
+  @media (max-height: 980px) {
+    @content;
+  }
+}
+
+@mixin _768 {
+  @media (min-width: 768px) {
+    @content;
+  }
+}
+
+@mixin _1024 {
+  @media (min-width: 1024px) {
+    @content;
+  }
+}
+
+@mixin _1280 {
+  @media (min-width: 1280px) {
+    @content;
+  }
+}
+
+@mixin _1440 {
+  @media (min-width: 1440px) {
+    @content;
+  }
+}
+
+@mixin _1680 {
+  @media (min-width: 1680px) {
+    @content;
+  }
+}
+
+@mixin _1720 {
+  @media (min-width: 1720px) {
+    @content;
+  }
+}
+
+@mixin _1920 {
+  @media (min-width: 1920px) {
+    @content;
+  }
+}

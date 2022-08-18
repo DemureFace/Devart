@@ -1,0 +1,26 @@
+{
+  "need": [
+  {
+    "title": "Need a hand?",
+    "text": "If you need any help or have questions about Devart tools or purchasing options, do not hesitate to get in touch with us.",
+    "faq": "Purchasing FAQ",
+    "mail": "sales@devart.com"
+  }
+],
+  "start": [
+  {
+    "title": "Get started with SQL Complete at no cost",
+    "text": "Download a FREE trial version and see how much time you can save on your coding and database deployment today.",
+    "button": "download free"
+  }
+],
+  "licenses": [
+  {
+    "title": "Buy multiple licenses with a substantial discount",
+    "text": "We provide flexible purchase options, including bulk discounts, to meet the budget of each and every customer.",
+    "span": "Start from:",
+    "cost": "$149.95",
+    "button": "purchase now"
+  }
+]
+}

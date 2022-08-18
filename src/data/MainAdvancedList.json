@@ -1,0 +1,24 @@
+{
+"accordion": [
+  {
+    "item": "Express edition available",
+    "description": "SQL Complete conveniently delivers quick object overview tooltips by simply hovering over the required objects while you are writing SQL code. This feature supports nearly 70 types of database objects."
+  },
+  {
+    "item": "Beautify T-SQL code and unify code standards with smart SQL Formatter",
+    "description": "SQL Complete conveniently delivers quick object overview tooltips by simply hovering over the required objects while you are writing SQL code. This feature supports nearly 70 types of database objects."
+  },
+  {
+    "item": "Get the essential information on DB objects while you are writing a code",
+    "description": "SQL Complete conveniently delivers quick object overview tooltips by simply hovering over the required objects while you are writing SQL code. This feature supports nearly 70 types of database objects."
+  },
+  {
+    "item": "Format your SQL query right in Management Studio or Visual Studio",
+    "description": "SQL Complete conveniently delivers quick object overview tooltips by simply hovering over the required objects while you are writing SQL code. This feature supports nearly 70 types of database objects."
+  },
+  {
+    "item": "Use rich SQL code snippet collection, manage and modify the existing snippets or create your own templates",
+    "description": "SQL Complete conveniently delivers quick object overview tooltips by simply hovering over the required objects while you are writing SQL code. This feature supports nearly 70 types of database objects."
+  }
+]
+}

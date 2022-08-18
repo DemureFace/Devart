@@ -1,0 +1,25 @@
+{
+  "card": [
+  {
+    "title": "MCS GROUP",
+    "text": "dbForge Studio for SQL Server",
+    "description": "...a powerful tool for developing a help system with auto format support...",
+    "icon": "icon-e",
+    "img": "MCS"
+  },
+  {
+    "title": "Nordhausen University",
+    "text": "dbForge Studio for SQL Server",
+    "description": "...we found out that it is a perfect tool for us due to its simplicity, usability, cost-effectiveness...",
+    "icon": "icon-e",
+    "img": "HNU"
+  },
+  {
+    "title": "Elements Financial",
+    "text": "dbForge SQL Complete",
+    "description": "...this add-in has greatly improved our day to day code writing abilities...",
+    "icon": "icon-arrow",
+    "img": "elements"
+  }
+]
+}
